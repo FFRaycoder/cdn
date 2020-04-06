@@ -6,6 +6,20 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "2838035",
+      "name": "cnblogs",
+      "font_class": "cnblogs",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "4313551",
+      "name": "merge",
+      "font_class": "merge",
+      "unicode": "e876",
+      "unicode_decimal": 59510
+    },
+    {
       "icon_id": "13285719",
       "name": "邮件",
       "font_class": "youjian",
